@@ -26,6 +26,3 @@ sudo wget https://download.docker.com/linux/ubuntu/dists/jammy/pool/stable/amd64
 sudo dpkg -i docker-ce-cli_20.10.13~3-0~ubuntu-jammy_amd64.deb    
 sudo dpkg -r docker-ce-cli
 ![](https://github.com/Andrei4e/finalWork2/blob/main/screens/4.png?raw=true)
-
-### Task 6
-![](https://github.com/Andrei4e/finalWork2/blob/main/screens/5.png?raw=true)
